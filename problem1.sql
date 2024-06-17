@@ -1,0 +1,1 @@
+select * from class c left outer join student s on s.class_title=c.class_title; 
